@@ -6,7 +6,8 @@ SkyWelcome是一款利用小天机器人
 打开目录下文件夹/group  
 找到对应群wxid.json  
 修改文件中的“欢迎语”  
-%nick%将自动替换为它的昵称
+%nick%将自动替换为它的昵称  
+
 ![LKXZX}LX)}ULV90TNFOLC8H](https://user-images.githubusercontent.com/69817107/178035715-5c063891-b18b-4e51-9db3-c153f59101e9.png)
 
 目前插件仍在测试版，启动前请  
