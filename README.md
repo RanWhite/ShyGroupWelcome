@@ -16,7 +16,7 @@ java -jar Welcome.jar
 修改文件中的“欢迎语”  
 %nick%将自动替换为它的昵称  
 
-![LKXZX}LX)}ULV90TNFOLC8H](https://user-images.githubusercontent.com/69817107/178035715-5c063891-b18b-4e51-9db3-c153f59101e9.png)
+![7G9QPLQAGFO4ZM{4 KB}O`N](https://user-images.githubusercontent.com/69817107/178038050-3ca2ced0-dc53-493f-b05a-a26e28742721.png)
 
 运行截图  
 
